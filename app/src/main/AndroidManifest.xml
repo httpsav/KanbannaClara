@@ -12,8 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Kanban">
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name="com.annaclara.kanban.MainActivity"
+            android:exported="true"
+            tools:ignore="MissingClass">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

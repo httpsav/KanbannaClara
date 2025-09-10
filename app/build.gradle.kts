@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.daniel.kanban"
+    namespace = "com.annaclara.kanban"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.daniel.kanban"
+        applicationId = "com.annaclara.kanban"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
